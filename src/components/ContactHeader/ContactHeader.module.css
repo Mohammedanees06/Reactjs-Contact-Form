@@ -1,0 +1,19 @@
+
+.contact_section h1 {
+  font-size:24px;
+  font-weight: 800;
+  color: #333;
+  margin: 1px 120px;
+  padding: 0 20px;
+  
+
+}
+.contact_section  p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+    margin: 2px 120px;
+    line-height: 1.5;
+    padding: 0 20px;
+    font-family:  Arial, Helvetica, sans-serif
+  }
